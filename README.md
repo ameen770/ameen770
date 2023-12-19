@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <a href=https://ameen.alyaari.2022@gmail.com" target="_blank">
+  <a href="ameen.alyaari.2022@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ameen-hameed-al-ya-ari-167b182a0/" target="_blank">
