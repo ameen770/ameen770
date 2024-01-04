@@ -45,8 +45,9 @@
 ###
 
 <div align="left">
-  <a href="aminehameed2018@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:ameen.alyaari.2022@gmail.com" alt="Ameen Hameed's E-mail" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:ameen.alyaari.2022@gmail.com" height="35" alt="gmail logo" />
+<!--     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
   </a>
   <a href="https://www.linkedin.com/in/ameen-hameed-al-ya-ari-167b182a0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
