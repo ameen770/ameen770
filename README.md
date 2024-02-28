@@ -13,6 +13,8 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="30px"  alt="sql server logo">
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  alt="sql server logo">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30px" alt="Angular logo">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30px" alt="github logo"  />
